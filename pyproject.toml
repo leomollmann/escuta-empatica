@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "ee"
+version = "0.1.0"
+description = ""
+authors = ["Leonardo Möllmann Schöller <leoscholler@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+openai = "^1.23.1"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
