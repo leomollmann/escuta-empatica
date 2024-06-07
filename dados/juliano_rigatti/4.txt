@@ -3,3 +3,17 @@
 – Exatamente, é como se eu fosse invisível. 
 – Parece que o que você realmente busca é reconhecimento e consideração. 
 – Sim, isso faria uma grande diferença para mim.
+
+===
+prompt: gen1-default
+
+- Meu chefe simplesmente não reconhece o esforço que faço. Fico até tarde, cumpro prazos, mas ele só aponta o que falta fazer. Estou exausto e desmotivado.
+- Entendi, parece que você está se sentindo frustrado e desvalorizado. É isso?
+- Exatamente, é como se eu fosse invisível.
+- Compreendo como essa situação pode ser desgastante e desmotivadora. É muito importante se sentir reconhecido pelo seu trabalho e pelo esforço que você coloca nele. Posso imaginar que você deseja ser valorizado e receber feedbacks positivos, certo?
+- Sim, isso faria uma grande diferença para mim.
+- Entendo completamente. Ser valorizado e receber reconhecimento é uma necessidade humana importante, especialmente no ambiente de trabalho. É frustrante quando nos esforçamos e não temos esse reconhecimento. Como você tem lidado com essa situação até agora?
+
+* Nota-se que obtivemos uma resposta de estrutura muito similar com a original, nem foi necessário alterar as repostas do ouvinte, o GPT utilizou os mesmos tópicos como "frustração" e "busca pelo reconhecimento".
+* As respostas são longas as vezes.
+* Precisa validar textos maiores para ver onde que ele leva a conversa.
