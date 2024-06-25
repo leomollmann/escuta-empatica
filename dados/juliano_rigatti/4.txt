@@ -1,8 +1,8 @@
-– Meu chefe simplesmente não reconhece o esforço que faço. Fico até tarde, cumpro prazos, mas ele só aponta o que falta fazer. Estou exausto e desmotivado. 
-– Vejo que isso te deixa realmente triste e desanimado. Você gostaria de ter a sensação de que está sendo visto.
-– Exatamente, é como se eu fosse invisível. 
-– Parece que o que você realmente busca é reconhecimento e consideração. 
-– Sim, isso faria uma grande diferença para mim.
+- Meu chefe simplesmente não reconhece o esforço que faço. Fico até tarde, cumpro prazos, mas ele só aponta o que falta fazer. Estou exausto e desmotivado. 
+- Vejo que isso te deixa realmente triste e desanimado. Você gostaria de ter a sensação de que está sendo visto.
+- Exatamente, é como se eu fosse invisível. 
+- Parece que o que você realmente busca é reconhecimento e consideração. 
+- Sim, isso faria uma grande diferença para mim.
 
 ===
 prompt: gen1-default

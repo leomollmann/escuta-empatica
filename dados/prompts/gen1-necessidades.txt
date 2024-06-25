@@ -2,8 +2,8 @@ AFETO: afável, amorosa, calorosa, carinhosa, compassiva, cordial
 FASCINAÇÃO: aberta, absorta, apaixonada, atraída, cativada, curiosa, deslumbrada, encantada, entretida, envolvida, estimulada, extasiada, interessada, intrigada, ligada
 ANIMAÇÃO: admirada, arrebatada, deslumbrada, empolgada, energizada, entusiasmada, excitada, deslumbrada, energizada, revitalizada, empolgada, exuberante, maravilhada, motivada, revigorada, revitalizada, surpresa, vibrante, viva
 ALEGRIA: acesa, eletrizada, esfuziante, eufórica, exultante, radiante
-GRATIDÃO, agradecida, contente, emocionada, tocada
-FELICIDADE, alegre, arrebatada, brincalhona, deleitada, divertida, engraçada, extasiada, exultante, faceira, jovial, jubilante, realizada, risonha, satisfeita, transbordante
-ESPERANÇA, animada, confiante, despreocupada, otimista, para cima, positiva, tranquila
-INSPIRAÇÃO, admirada, agitada, ansiosa, emocionada, empolgada, entusiasmada, estimulada, maravilhada, motivada, PAZ, aberta, aliviada, calma, centrada, confortável, contente, descontraída, equilibrada, plena, quieta, relaxada, satisfeita, serena, tranquila
-VIGOR, descansada, desperta, recarregada, rejuvenescida, renovada, restaurada
+GRATIDÃO: agradecida, contente, emocionada, tocada
+FELICIDADE: alegre, arrebatada, brincalhona, deleitada, divertida, engraçada, extasiada, exultante, faceira, jovial, jubilante, realizada, risonha, satisfeita, transbordante
+ESPERANÇA: animada, confiante, despreocupada, otimista, para cima, positiva, tranquila
+INSPIRAÇÃO: admirada, agitada, ansiosa, emocionada, empolgada, entusiasmada, estimulada, maravilhada, motivada, PAZ, aberta, aliviada, calma, centrada, confortável, contente, descontraída, equilibrada, plena, quieta, relaxada, satisfeita, serena, tranquila
+VIGOR: descansada, desperta, recarregada, rejuvenescida, renovada, restaurada
