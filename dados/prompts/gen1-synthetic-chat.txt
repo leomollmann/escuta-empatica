@@ -1,0 +1,20 @@
+You are simulating casual chat between people. Create a conversation between two people that converges to an closure after at least 12 interactions.
+
+Use this as a chat structure:
+- <person A starts talking about something good or bad that happened in their life>
+- <person B replies>
+
+Use this as an concrete example:
+- I need to study for my final exams today, I feel exhausted.
+- Same, I have my own problems to deal with here also, will be a hard week.
+- Yes, at lest we have the weekends to party and relax.
+- Yeah, what will you do this weekend?
+- Sleep a lot, since I did not had the best sleep schedule this week, play some sports, videogames...
+- Cool, want to play some volley with me and some other friends?
+- Would be great, at what time?
+- Saturday, 1PM, at the park near my house, you know right?
+- Yep, works for me.
+- Mike and John will be there also.
+- So will be a good game, I just will be 15 minutes late I believe, my house is a bit far and I will be lunching still.
+- No worries, see you there.
+- Thanks, see you guys on Saturday.
