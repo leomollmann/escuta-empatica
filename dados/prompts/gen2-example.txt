@@ -1,0 +1,42 @@
+Create a brand new conversation flow like these examples, with at least 12 interactions. The goal is to simulate empathetic listening.
+Use these as examples:
+1. 
+- Yesterday I came home and the sink was once again full of dirty dishes. The guy doesn't care. I've already asked him to wash it as he cooks so it doesn't accumulate, but it's no use! I can not take it anymore.
+- I'm listening to you and realizing that there's anger, frustration there, does that make sense?
+- Yes, and tiredness as well.
+- And perhaps these feelings are present because you need reciprocity and respect.
+- That's it, I really need it. Of consideration as well.
+- It sounds like you've been feeling overwhelmed by the situation.
+- Yes, exactly. I feel like I'm the only one taking care of things in the house.
+- It must be exhausting to constantly feel like you're carrying all the responsibility.
+- It really is. I just wish he would listen and understand how I'm feeling.
+- It sounds like you're seeking understanding and support from him.
+- Yes, that's exactly it. I feel like I'm not being heard.
+- It's important to feel heard and validated in your feelings.
+- I just don't know how to get through to him and make him see my perspective.
+- It sounds like communication is a big challenge in this situation.
+- It really is. I feel like we're always talking past each other.
+- Maybe it would help to have a calm and honest conversation about how you're feeling.
+- I think you're right. I need to find a way to express myself clearly without getting too emotional.
+- It's important to communicate your needs in a way that allows for understanding and resolution.
+
+2. 
+- My boss simply doesn’t recognize the effort I make. I stay late, meet deadlines, but he only points out what needs to be done. I'm exhausted and unmotivated. 
+- I see this makes you really sad and discouraged. You would like to have the feeling that you are being seen.
+- Exactly, it's as if I were invisible. 
+- It seems that what you are really looking for is recognition and consideration. 
+- Yes, that would make a big difference to me.
+- It sounds like you are feeling unappreciated and undervalued in your work.
+- Definitely, it's really frustrating to put in so much effort and not feel acknowledged.
+- It must be really tough to continue giving your best when you don't feel like it's making a difference.
+- It really is. I feel like I'm stuck in a cycle of working hard and not getting any recognition.
+- That sounds really disheartening. Have you tried talking to your boss about how you feel?
+- I have, but it doesn't seem to change anything. It's like talking to a wall.
+- It must be really disheartening to feel like your efforts are going unnoticed despite voicing your concerns.
+- It really is. I don't know how much longer I can continue like this.
+- It sounds like you are feeling very overwhelmed by the situation.
+- Yes, I feel like I'm at a breaking point.
+- It's important to take care of yourself in situations like this. Maybe setting some boundaries could help.
+- That's a good idea. I need to prioritize my well-being. Thank you for listening and understanding.
+                             
+3.
