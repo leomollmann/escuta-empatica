@@ -21,8 +21,14 @@ Validar a possibilidade de um agente conversacional que fosse capaz de realizar 
 3. Criar uma maneira de avaliar textos produzidos com base aos fornecidos pelos exemplos.
 
     - [x] Análise manual.
-    - [ ] [NLTK Sentimental Analysis](https://www.nltk.org/howto/sentiment.html).
+    - [x] [NLTK Sentimental Analysis](https://www.nltk.org/howto/sentiment.html).
 
 # Ferramentas
 
 - [ ] UI e backend para facilitar o teste, armazenamento e anotação dos dados.
+
+# Trablahos relacionados
+
+- https://arxiv.org/pdf/2401.14423
+- https://aclanthology.org/2022.coling-1.56.pdf
+- https://www.datacamp.com/tutorial/text-analytics-beginners-nltk
